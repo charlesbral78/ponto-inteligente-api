@@ -1,4 +1,4 @@
-package utils;
+package com.example.pontoeletronico.utils;
 
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 
